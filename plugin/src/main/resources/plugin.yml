@@ -1,0 +1,7 @@
+name: WebConnect
+version: 0.0.1
+main: io.github.themoddedchicken.WebConnect.WebConnect
+description: A bridge between Minecraft servers and 3rd party services to enhance the whitelist experience
+author: TheModdedChicken
+website: https://github.com/TheModdedChicken/WebConnect
+api-version: '1.21'

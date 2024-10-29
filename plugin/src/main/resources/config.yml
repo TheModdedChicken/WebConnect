@@ -1,0 +1,20 @@
+# ===
+# MC 3rd Party Auth
+# by TheModdedChicken
+# ===
+#
+# Comments are marked with '#'.
+# To uncomment something, remove '#' from the beginning.
+
+# Set title/branding of web panel
+# title: MC3PA
+
+# Web server port
+# port: 7395
+
+# Web server path
+# path: /
+
+# Use external web panel?
+# Note: External web panel files should go in plugins/WebConnect/web
+# external-panel: false

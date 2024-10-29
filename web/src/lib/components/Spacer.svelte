@@ -1,0 +1,1 @@
+<div class="bg-gray-300 h-[2px]"></div>
